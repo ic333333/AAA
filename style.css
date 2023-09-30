@@ -20,150 +20,225 @@ body {
 
 
 .lgoback {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     position: absolute;
     top: 200px;
     left: 250px;
 }
 
 .lburymeingucci {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     position: absolute;
     top: 200px;
     left: 420px;
 }
 
 .ldriftmeaway {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     position: absolute;
     top: 200px;
     left: 590px;
 }
 
 .lifthevillaindie {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     position: absolute;
     top: 200px;
     left: 760px;
 }
 
 .lsunnyside {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     position: absolute;
     top: 200px;
     left: 930px;
 }
 
 .lmyhairisgreen {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     position: absolute;
     top: 373px;
     left: 250px;
 }
 
 .locafezinho {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     position: absolute;
     top: 373px;
     left: 420px;
 }
 
 .l22s {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     position: absolute;
     top: 373px;
     left: 590px
 }
 
 .l이호석 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     position: absolute;
     top: 373px;
     left: 760px;
 }
 
 .lcept {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     position: absolute;
     top: 373px;
     left: 930px;
 }
 
 .lshoutitlouder {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     position: absolute;
     top: 547px;
     left: 250px;
 }
 
 .lprompt {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     position: absolute;
     top: 547px;
     left: 420px;
 }
 
 .lvenusflytrap {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     position: absolute;
     top: 547px;
     left: 590px;
 }
 
 .l21s {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     position: absolute;
     top: 547px;
     left: 760px;
 }
 
 .lheisnotascoolasme {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     position: absolute;
     top: 547px;
     left: 930px;
 }
 
 .ldead {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     position: absolute;
     top: 722px;
     left: 250px;
 }
 
 .ldot {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     position: absolute;
     top: 722px;
     left: 420px;
 }
 
 .lrnb {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     position: absolute;
     top: 722px;
     left: 590px;
 }
 
 .lditto {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     position: absolute;
     top: 722px;
     left: 760px;
 }
 
 .ldomeright {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     position: absolute;
     top: 722px;
     left: 930px;
 }
 
 .lbts {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     position: absolute;
     top: 895px;
     left: 250px;
 }
 
 .lloona {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     position: absolute;
     top: 895px;
     left: 420px;
 }
 
 .lthealmostquietmoment {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     position: absolute;
     top: 895px;
     left: 590px;
 }
 
 .landtherewas {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     position: absolute;
     top: 895px;
     left: 760px;
 }
 
 .loldbts {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     position: absolute;
     top: 895px;
     left: 930px;
