@@ -1,0 +1,171 @@
+@import url(https://fonts.google.com/specimen/Kosugi+Maru);
+
+body {
+   background-image: url(https://static.wixstatic.com/media/6efc6e_3c87611cc7a6435b916c10e344c7a170~mv2.jpg/v1/fill/w_498,h_333,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/6efc6e_3c87611cc7a6435b916c10e344c7a170~mv2.jpg);
+}
+
+.titulo {
+    color: #cfa2dd;
+    font-size: 40px;
+    font-family:'Kosugi Maru';
+    text-align: center;
+}
+
+.aaa {
+    color: #cfa2dd;
+    font-size: 35px;
+    font-family:'Kosugi Maru';
+    text-align: center;
+}
+
+
+.lgoback {
+    position: absolute;
+    top: 200px;
+    left: 250px;
+}
+
+.lburymeingucci {
+    position: absolute;
+    top: 200px;
+    left: 420px;
+}
+
+.ldriftmeaway {
+    position: absolute;
+    top: 200px;
+    left: 590px;
+}
+
+.lifthevillaindie {
+    position: absolute;
+    top: 200px;
+    left: 760px;
+}
+
+.lsunnyside {
+    position: absolute;
+    top: 200px;
+    left: 930px;
+}
+
+.lmyhairisgreen {
+    position: absolute;
+    top: 373px;
+    left: 250px;
+}
+
+.locafezinho {
+    position: absolute;
+    top: 373px;
+    left: 420px;
+}
+
+.l22s {
+    position: absolute;
+    top: 373px;
+    left: 590px
+}
+
+.l이호석 {
+    position: absolute;
+    top: 373px;
+    left: 760px;
+}
+
+.lcept {
+    position: absolute;
+    top: 373px;
+    left: 930px;
+}
+
+.lshoutitlouder {
+    position: absolute;
+    top: 547px;
+    left: 250px;
+}
+
+.lprompt {
+    position: absolute;
+    top: 547px;
+    left: 420px;
+}
+
+.lvenusflytrap {
+    position: absolute;
+    top: 547px;
+    left: 590px;
+}
+
+.l21s {
+    position: absolute;
+    top: 547px;
+    left: 760px;
+}
+
+.lheisnotascoolasme {
+    position: absolute;
+    top: 547px;
+    left: 930px;
+}
+
+.ldead {
+    position: absolute;
+    top: 722px;
+    left: 250px;
+}
+
+.ldot {
+    position: absolute;
+    top: 722px;
+    left: 420px;
+}
+
+.lrnb {
+    position: absolute;
+    top: 722px;
+    left: 590px;
+}
+
+.lditto {
+    position: absolute;
+    top: 722px;
+    left: 760px;
+}
+
+.ldomeright {
+    position: absolute;
+    top: 722px;
+    left: 930px;
+}
+
+.lbts {
+    position: absolute;
+    top: 895px;
+    left: 250px;
+}
+
+.lloona {
+    position: absolute;
+    top: 895px;
+    left: 420px;
+}
+
+.lthealmostquietmoment {
+    position: absolute;
+    top: 895px;
+    left: 590px;
+}
+
+.landtherewas {
+    position: absolute;
+    top: 895px;
+    left: 760px;
+}
+
+.loldbts {
+    position: absolute;
+    top: 895px;
+    left: 930px;
+}
+
