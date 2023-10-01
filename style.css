@@ -251,6 +251,25 @@ body {
 }
 
 
+.container {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    justify-self: center;
+    flex-direction: row;
+    max-width: 1280px;
+    margin: 10px;
+
+    flex-wrap: wrap;
+}
+
+img {
+    width: 20dvh;
+    border-radius: 10px;
+
+}
+
+
 @media screen and (min-width: 498px) {
     .lgoback {
         width: auto;
