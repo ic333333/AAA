@@ -2,11 +2,13 @@
 
 body {
     background-image: url(https://static.wixstatic.com/media/6efc6e_3c87611cc7a6435b916c10e344c7a170~mv2.jpg/v1/fill/w_498,h_333,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/6efc6e_3c87611cc7a6435b916c10e344c7a170~mv2.jpg);
-
-    width:800px;
-    height:600px;
+   
+    width:1280px;
+    height:800px;
     margin: 0 auto;
 }
+
+
 
 .titulo {
     color: #cfa2dd;
@@ -248,3 +250,10 @@ body {
     left: 930px;
 }
 
+
+@media screen and (min-width: 498px) {
+    .lgoback {
+        width: auto;
+        height: auto;
+    }
+}
